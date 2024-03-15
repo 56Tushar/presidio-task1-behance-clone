@@ -5,7 +5,6 @@ import { NavbarItems, behance_logo, searchItems, tagName } from "../util";
 import { adobeLogo } from "../util";
 import { HiOutlineMenu } from "react-icons/hi";
 import Search from "./Search";
-import Dropdown from "react-bootstrap/Dropdown";
 
 const openMenu = () => {
   const main_header = document.getElementById("header");
